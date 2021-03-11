@@ -1,2 +1,2 @@
 # glass
- projeto em html,css e javascript
+ projeto em html,css e javascript, ainda esta em desenvolvimento.
