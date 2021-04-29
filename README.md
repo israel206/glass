@@ -6,7 +6,6 @@
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
@@ -58,16 +57,6 @@ Clone the project and access the folder
 App to always remember to water your plants 🌱
 
 This is a project developed during the **[Curso de HTML5 e CSS3](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o/)**, presented by **[@Curso em Video de Gustavo Guanabara](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)** during April 19, 2013.
-
----
-
-## 🔖 Layout
-
-You can view the project layout through the links below:
-
-- [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
-
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 ---
 
