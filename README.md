@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="Glass" src=".github/Glass.png" width="100%">
+  <img alt="Glass" src=".github/Glass.png" width="90%">
 </p>
 
 
