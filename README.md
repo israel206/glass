@@ -41,7 +41,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
   ```bash
     # clone repository
-    $ git clone git clone https://github.com/israel206/move.git
+    $ git clone https://github.com/israel206/move.git
   ```
 ---
 
