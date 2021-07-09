@@ -48,8 +48,6 @@ Clone the project and access the folder
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 This is a project developed during the **[Curso de HTML5 e CSS3](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o/)**, presented by **[@Curso em Video de Gustavo Guanabara](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)** during April 19, 2013.
 
 ---
